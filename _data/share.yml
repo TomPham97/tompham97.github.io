@@ -19,7 +19,7 @@ platforms:
   -
     type: Linkedin
     icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/in/tompham97/"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   #
   # -
   #   type: Weibo
