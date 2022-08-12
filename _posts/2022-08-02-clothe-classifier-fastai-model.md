@@ -1,3 +1,10 @@
+---
+title: "Clothe Classifier - FastAI Model"
+subtitle: "Build a deep learning model to recognize clothing items"
+date: "2022-08-02"
+categories: ["iPython Notebook"]
+tags: ["fastai", "clothe", "classifier", "deep learning"]
+---
 # Train a fastai model to recognize clothing items such as shirts, pants, socks, and dresses
 
 ## Install dependencies
