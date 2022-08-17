@@ -14,6 +14,12 @@ Bachelor of Arts in General Biology and Biochemistry
 Master of Science in Stem Cell Biology
 
 ### Data Science
-
+Self taught using various resources with hands-on practical exercises and projects.
+Coursera:
+Machine Learning
+Fast.ai:
+Practical Deep Learning For Coders 2022
+Kaggle:
+Python for Data Analysis
 ## Experience
 Unsupervised learning using self organizing maps (SOM)
