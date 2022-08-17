@@ -15,3 +15,8 @@ People who seek to learn data science often encounters the same issue, with ever
 While the field employs lots of advanced statistics and algorithms, one does not necessarily need to have a PhD in math in order to implement practical solutions using data.
 
 Technical knowledge is important but should not be the main emphasis. As described by Dr. Rachel Thomas 
+
+# 3. Absence of peers with a common interest
+Forums, communities such as reddit, stack overflow
+
+# 2. 
