@@ -7,6 +7,18 @@ order: 4
 I'm Tom Pham, a self-taught data scientist focusing on machine learning. I am interested in implementing artificial intelligence to solve various problems.
 Furthermore, I seek to incorporate my diverse cultural background and multi-disciplinary knowledge to tackle all issues from various angles. 
 
+## Workspace setup
+### Hardware
+2019 15-inch MacBook Pro
+2,6 GHz 6-Core Intel Core i7
+16 GB 2400 MHz DDR4
+Radeon Pro 555X 4 GB
+
+### Software
+OS: macOS
+Visual Studio Code
+Jupyterlab on Paperspace
+
 ## Education
 ### Biology
 Graduate level of biology with a focus on hematopoietic stem cells.
