@@ -25,6 +25,9 @@ Upload a png file of choice to https://realfavicongenerator.net/ and download th
 #### Installing the favicon
 Follow this [blog post](https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed) or [YouTube video](https://youtu.be/4v-8_JSydgk) for specific instructions.
 
+### Configure search engine optimization (SEO)
+Verify on Google Search Console
+Create a sitemap with [these instructions](https://blog.webjeda.com/jekyll-sitemap/#:~:text=search%20engine%20friendly.-,How%20to%20create%20a%20sitemap%20for%20Jekyll%20blog%3F,-In%20WordPress%2C%20creating) and submit to Google.
 ## License
 
 This work is published under [MIT][mit] License.
