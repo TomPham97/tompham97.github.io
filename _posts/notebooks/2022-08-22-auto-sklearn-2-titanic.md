@@ -41,14 +41,6 @@ The dataset being used is from the [Kaggle Titanic competition](https://www.kagg
 
 
 ```python
-%pip install -Uq -r requirements.txt
-```
-
-    Note: you may need to restart the kernel to use updated packages.
-
-
-
-```python
 import fastkaggle
 print("fastkaggle version: ", fastkaggle.__version__)
 ```
