@@ -1,7 +1,7 @@
 ---
-title: "Straightforward Auto-Sklearn 2 Implementation"
+title: "Hands-Free Machine Learning With Auto-Sklearn 2"
 subtitle: "Generate Tabular Classification Prediction of Kaggle Titanic Dataset Using AutoML Auto-Sklearn 2"
-date: "2022-08-22"
+date: "2022-08-27"
 categories: ["iPython Notebook"]
 tags: ["automl", "scikit-learn", "classification", "titanic", "tabular", "auto-sklearn2", "Kaggle"]
 ---
