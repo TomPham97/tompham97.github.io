@@ -14,22 +14,22 @@ import autosklearn.experimental.askl2
 import autosklearn.metrics
 
 # Configure model parameters
-cls = autosklearn.experimental.askl2.AutoSklearn2Classifier(
+classifier = autosklearn.experimental.askl2.AutoSklearn2Classifier(
     time_left_for_this_task = 600, # in seconds
     metric = autosklearn.metrics.roc_auc)
 
 # Fit model
-cls.fit(X_train, y_train)
+classifier.fit(X_train, y_train)
 
 # Predict on test data
-y_pred = cls.predict(X_test)
+y_pred = classifier.predict(X_test)
 ```
 
 To find out more about other auto-sklearn applications, visit the [examples webpage](https://automl.github.io/auto-sklearn/master/examples/index.html).
 
 This notebook is available on [GitHub](https://github.com/TomPham97/Kaggle-machine-learning/blob/main/Titanic-competition/2022-08-22-auto-sklearn-2-titanic.ipynb) or to be downloaded [here](/assets/posts/askl2/2022-08-22-auto-sklearn-2-titanic.ipynb).
 
-Note: to install auto-sklearn on MacOS, use the commands below. Addition details can be found in [this comment](https://gist.github.com/simonprovost/051952533680026b67fa58c3552b8a7b?permalink_comment_id=4239572#gistcomment-4239572).
+Note: to install auto-sklearn on MacOS, use the commands below. Additional details can be found in [this comment](https://gist.github.com/simonprovost/051952533680026b67fa58c3552b8a7b?permalink_comment_id=4239572#gistcomment-4239572).
 ```bash
 brew install swig
 brew link swig
@@ -22846,14 +22846,14 @@ print(cls.sprint_statistics())
 
 
 To save the progress thus far, we can use fastai's function save_pickle to store the trained model.
-If the pickled model needs to be accessed later, type the following:
-```python
-cls = ('cls.pkl').load()
-```
-
 
 ```python
 save_pickle('cls.pkl', cls)
+```
+
+If the pickled model needs to be accessed later, type the following:
+```python
+cls = ('cls.pkl').load()
 ```
 
 ## Model insights
@@ -23040,7 +23040,7 @@ Save the prediction as a .csv file.
 
 ```python
 subm.to_csv('subm.csv')
-# View the first 5 rows
+# View the first few rows
 !head subm.csv
 ```
 
