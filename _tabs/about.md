@@ -1,7 +1,7 @@
 ---
 title: About Me
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 I'm Tom Pham, a self-taught data scientist focusing on machine learning. I am interested in implementing artificial intelligence to solve various problems.
