@@ -22851,9 +22851,9 @@ To save the progress thus far, we can use fastai's function save_pickle to store
 save_pickle('cls.pkl', cls)
 ```
 
-If the pickled model needs to be accessed later, type the following:
+If the pickled model needs to be accessed later, run the following:
 ```python
-cls = ('cls.pkl').load()
+cls = load_pickle('cls.pkl')
 ```
 
 ## Model insights
