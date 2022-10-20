@@ -37,8 +37,8 @@ Self-taught via various resources with hands-on practical exercises and projects
 
 **Coursera:**
 - Completed the original [Machine Learning course](https://coursera.org/verify/N9BXN5SUADSB)
-- Course 2/3 of the 2022-updated [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
-- Course 1/5 of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- Completed the 2022-updated [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+- Course 2/5 of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 > These lessons are beautifully delivered by [Andrew Ng](https://www.andrewng.org/) and cover the fundamental concepts of machine learning in details as well as helpful advices when implementing them.
 
@@ -55,6 +55,13 @@ Self-taught via various resources with hands-on practical exercises and projects
 > This book is written by the creator of the Python library Pandas and goes in depth into the programming language as well as its Numpy, Pandas, and Matplotlib packages.
 
 ### German as a foreign language
-Level [B1.1 in German](https://github.com/TomPham97/German-language-certificate/blob/main/German%20B1.1%20level.pdf) according to the *Common European Framework of Reference for Languages* (CEFR)
+Level B1.2 in German according to the [*Common European Framework of Reference for Languages* (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages/table-3-cefr-3.3-common-reference-levels-qualitative-aspects-of-spoken-language-use)
+
+<details>
+    <summary>Show certificate</summary>
+
+![B1.2 German](/assets/posts/about/B1-2_German.png)
+</details>
+
 ## Experience
 Applied [flowSOM](https://github.com/saeyslab/FlowSOM), an unsupervised learning algorithm which uses Self Organizing Map, Minimum Spanning Tree, and Hierarchical Clustering to cluster flow cytometry data. The high-parameter data is visualized with t-SNE and UMAP dimensionality reduction algorithms.
