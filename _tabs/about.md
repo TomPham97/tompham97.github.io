@@ -38,7 +38,7 @@ Self-taught via various resources with hands-on practical exercises and projects
 **Coursera:**
 - Completed the original [Machine Learning course](https://coursera.org/verify/N9BXN5SUADSB)
 - Completed the 2022-updated [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
-- Course 2/5 of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- Course 5/5 of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 > These lessons are beautifully delivered by [Andrew Ng](https://www.andrewng.org/) and cover the fundamental concepts of machine learning in details as well as helpful advices when implementing them.
 
