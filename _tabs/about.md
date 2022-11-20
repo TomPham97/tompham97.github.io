@@ -42,6 +42,8 @@ Self-taught via various resources with hands-on practical exercises and projects
 
 > These lessons are beautifully delivered by [Andrew Ng](https://www.andrewng.org/) and cover the fundamental concepts of machine learning in details as well as helpful advices when implementing them.
 
+- Course 4/4 of the [SQL for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science)
+
 **Practical Deep Learning For Coders [book](https://github.com/fastai/fastbook) and [lectures from 2022](https://course.fast.ai/)**
 > Taught by the founder of fastai, [Jeremy Howard](https://www.fast.ai/about/#jeremy), this course uses a unique top-down approach that applies the production-level deep learning models first *and then* gradually covers the theory behind them. As a result, learners are able to rapidly solve real-world problems with AI models. For more information on why this course is in the frontier of deep learning for beginners, check out this [article](https://medium.com/@init_27/how-not-to-do-fast-ai-or-any-ml-mooc-3d34a7e0ab8c).
 
