@@ -7,22 +7,33 @@ order: 1
 I'm Tom Pham, a self-taught data scientist focusing on machine learning and deep learning. I am interested in implementing artificial intelligence to solve various problems.
 With a diverse cultural background and multi-disciplinary knowledge, I seek to tackle all issues from various angles. 
 
-## Workspace setup
-### Hardware
-**2019 15-inch MacBook Pro**
+<details>
+    <summary><h2>This is a test</h2></summary>
+</details>
 
-2,6 GHz 6-Core Intel Core i7
+<details>
+    <summary><font size = "+2"> Workspace setup </font><summary>
+    <details>
+        <summary><font size = "+2"> Hardware </font><summary>
 
-16 GB 2400 MHz DDR4 RAM
+    **2019 15-inch MacBook Pro**
 
-Radeon Pro 555X 4 GB
+    2,6 GHz 6-Core Intel Core i7
 
-**32-inch external monitor**
+    16 GB 2400 MHz DDR4 RAM
 
-### Workspaces
-Remote Jupyterlab via [Paperspace Gradient Notebooks](https://www.paperspace.com/gradient/notebooks)
+    Radeon Pro 555X 4 GB
 
-IDE: Visual Studio Code
+    **32-inch external monitor**
+
+    ### Workspaces
+    Remote Jupyterlab via [Paperspace Gradient Notebooks](https://www.paperspace.com/gradient/notebooks)
+
+    IDE: Visual Studio Code
+
+    </details>
+
+</details>
 
 ## Education
 ### Biology
