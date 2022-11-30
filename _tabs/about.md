@@ -14,11 +14,13 @@ With a diverse cultural background and multi-disciplinary knowledge, I seek to t
 
     **2019 15-inch MacBook Pro**
 
+
     2,6 GHz 6-Core Intel Core i7
 
     16 GB 2400 MHz DDR4 RAM
 
     Radeon Pro 555X 4 GB
+
 
     **32-inch external monitor**
 
