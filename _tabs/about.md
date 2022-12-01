@@ -12,8 +12,7 @@ With a diverse cultural background and multi-disciplinary knowledge, I seek to t
     <details>
     <summary><font size = "+1">Hardware</font></summary>
 
-    **2019 15-inch MacBook Pro**
-
+    <b>2019 15-inch MacBook Pro</b>
 
     2,6 GHz 6-Core Intel Core i7
 
@@ -22,7 +21,7 @@ With a diverse cultural background and multi-disciplinary knowledge, I seek to t
     Radeon Pro 555X 4 GB
 
 
-    **32-inch external monitor**
+    <b>32-inch external monitor</b>
 
 </details>
     <details>
